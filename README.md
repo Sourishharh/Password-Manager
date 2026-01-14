@@ -100,7 +100,7 @@ npm install
 Create `.env` file:
 
 ```env
-MONGO_URL=mongodb://127.0.0.1:27017/password_manager
+MONGO_URL=mongodb://MONGO_URL/password_manager
 ```
 
 Run backend:
@@ -152,3 +152,4 @@ http://localhost:5173
 GitHub: [@Sourishharh](https://github.com/Sourishharh)
 
 ---
+
